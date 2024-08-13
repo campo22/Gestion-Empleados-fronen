@@ -1,0 +1,58 @@
+/* Centrando el contenedor */
+.container {
+  margin-top: 50px;
+}
+
+/* Estilos para la tarjeta */
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+/* Encabezado del formulario */
+.card h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #007bff; /* Color primario de Bootstrap */
+}
+
+/* Estilos para las etiquetas */
+.card label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Estilos para los inputs */
+.card .form-control {
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+}
+
+/* Estilos para las alertas */
+.alert {
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+/* Botón de envío */
+.btn-primary {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+/* Margen para el grupo de formulario */
+.form-group {
+  margin-bottom: 15px;
+}
